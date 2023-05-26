@@ -1,4 +1,4 @@
-package com.wasif.dope.controller;
+package com.wasif.dope.controller.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
